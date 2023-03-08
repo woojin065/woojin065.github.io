@@ -118,15 +118,15 @@ author:
     # - label: 'Twitter'
     #   icon: 'fab fa-fw fa-twitter-square'
     #   # url: "https://twitter.com/"
-    #- label: 'Facebook'
-    #  icon: 'fab fa-fw fa-facebook-square'
-    #  url: 'https://www.facebook.com/profile.php?id=100006904626958'
+    - label: 'Facebook'
+      icon: 'fab fa-fw fa-facebook-square'
+      url: 'https://www.facebook.com/profile.php?id=100006904626958'
     - label: 'GitHub'
       icon: 'fab fa-fw fa-github'
       url: 'https://github.com/woojin065/woojin065.github.io'
-    #- label: 'Instagram'
-    #  icon: 'fab fa-fw fa-instagram'
-    #  url: 'https://www.instagram.com/kim_songjun/'
+    - label: 'Instagram'
+      icon: 'fab fa-fw fa-instagram'
+      url: 'https://www.instagram.com/kim_songjun/'
 
 # Site Footer
 footer:
