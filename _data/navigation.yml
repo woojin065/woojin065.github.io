@@ -1,0 +1,37 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tag"
+    url: /tag/
+  - title: "Search"
+    url: /search/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+# docs:
+#   - title: 'Tech'
+#     children:
+#       - title: 'Svelte'
+#         url: /svelte/svelte/
+#         category: 'Svelte'
+#       - title: 'Tag'
+#         url: /tag/
+#   - title: 'Paper'
+#     children:
+#       - title: 'Start-Up'
+#         url: /startup/
+#         category: 'startup'
+#   - title: 'blog'
+#     children:
+#       - title: 'jekyll'
+#         url: /jekyll/
+#         category: 'jekyll'
+#       - title: 'github'
+#         url: /github/
+#         category: 'github'
