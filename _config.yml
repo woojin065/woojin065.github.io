@@ -106,7 +106,7 @@ author:
   name: "woojin"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "woojin의 개발 블로그입니다."
-  location: "South Korea"
+  location: "한국공학대학교"
   email: "marty0605@naver.com"
   links:
     - label: "Email"
