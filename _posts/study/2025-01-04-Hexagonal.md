@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "헥사고날 아키텍처란? (작성중)"
+title: "헥사고날 아키텍처란?"
 categories: "common_topic"
 tags: [common]
 toc: true
