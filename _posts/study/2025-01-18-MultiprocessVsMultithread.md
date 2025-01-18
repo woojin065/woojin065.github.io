@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "멀티프로세스 vs 멀티쓰레드"
+title: "멀티프로세스 vs 멀티쓰레드 "
 categories: "common_topic"
 tags: [common]
 toc: true

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "프로세스와 쓰레드드"
+title: "프로세스와 쓰레드 "
 categories: "common_topic"
 tags: [common]
 toc: true
