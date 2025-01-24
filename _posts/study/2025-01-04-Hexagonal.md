@@ -10,7 +10,7 @@ image:
 
 ## 헥사고날 아키텍처란?
 
-![image.png](../../images/2025/1-5-Hexagonal.png)
+![image.png](/images/2025/1-5-Hexagonal.png)
 
 > 헥사고날 아키텍처(Hexagonal Architecture)는 2005년 **앨리스터 코버번(Alistair Cockburn)**이 제안한 소프트웨어 아키텍처 스타일로, **포트와 어댑터 아키텍처(Ports and Adapters Architecture)**로도 불립니다.
 
