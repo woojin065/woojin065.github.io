@@ -1,12 +1,11 @@
 ---
-layout: single
-title: "API란? / REST API, RESTful API"
-categories: "common_topic"
+title: API란? / REST API, RESTful API
+date: 2025-01-03 00:00:00 +09:00
+categories: [common_topic]
 tags: [common]
-toc: true
-toc_sticky: true
-toc_label: "목차"
+image: 
 ---
+
 
 # 🙄 API란 무엇일까?
 

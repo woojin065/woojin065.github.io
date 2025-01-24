@@ -1,11 +1,9 @@
 ---
-layout: single
-title: "Interface란?"
-categories: "common_topic"
+title: Interface란?
+date: 2025-01-03 00:00:00 +09:00
+categories: [common_topic]
 tags: [common]
-toc: true
-toc_sticky: true
-toc_label: "목차"
+image: 
 ---
 
 # 🙃 인터페이스?

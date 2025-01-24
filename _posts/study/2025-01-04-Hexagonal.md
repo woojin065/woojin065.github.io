@@ -1,11 +1,9 @@
 ---
-layout: single
-title: "헥사고날 아키텍처란? (작성중)"
-categories: "common_topic"
+title: 헥사고날 아키텍처란?
+date: 2025-01-04 00:00:00 +09:00
+categories: [common_topic]
 tags: [common]
-toc: true
-toc_sticky: true
-toc_label: "목차"
+image: 
 ---
 
 # **헥사고날 아키텍처?**
