@@ -1,6 +1,6 @@
 ---
 title: 멀티프로세스 vs 멀티쓰레드
-date: 2025-01-11 00:00:00 +09:00
+date: 2025-01-18 00:00:00 +09:00
 categories: [common_topic]
 tags: [common]
 image: 

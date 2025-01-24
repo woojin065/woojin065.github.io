@@ -1,6 +1,6 @@
 ---
 title: 동기/비동기, 블로킹/논블로킹
-date: 2025-01-11 00:00:00 +09:00
+date: 2025-01-18 00:00:00 +09:00
 categories: [common_topic]
 tags: [common]
 image: 
