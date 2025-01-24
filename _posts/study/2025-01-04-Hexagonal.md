@@ -1,6 +1,6 @@
 ---
 title: 헥사고날 아키텍처란?
-date: 2025-01-04 00:00:00 +09:00
+date: 2025-01-04 00:14:00 +09:00
 categories: [common_topic]
 tags: [common]
 image: 

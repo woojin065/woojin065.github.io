@@ -1,6 +1,6 @@
 ---
 title: Interface란?
-date: 2025-01-03 00:00:00 +09:00
+date: 2025-01-03 00:10:00 +09:00
 categories: [common_topic]
 tags: [common]
 image: 
