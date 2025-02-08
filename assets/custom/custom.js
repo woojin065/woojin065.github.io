@@ -1,7 +1,8 @@
 const observer = new MutationObserver(() => {
+  console.log('MutationObserver 감지됨!'); // ✅ 실행 여부 확인
   let elements = document.querySelectorAll('.popup.img-link.preview-img');
   elements.forEach((el) => {
-    el.style.display = 'none';
+    el.style.setProperty('display', 'none', 'important');
   });
 });
 
