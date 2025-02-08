@@ -3,7 +3,9 @@ title: RDB vs NoSQL
 date: 2025-02-08 00:10:00 +09:00
 categories: [common_topic]
 tags: [common]
-image: /images/2025/2-8-SQLVSNOSQL0.png
+image: 
+  path: /images/2025/2-8-TSQLVSNOSQL.png
+  hidden: true  # 본문에서 미리보기 이미지를 숨김
 ---
 
 ![image.png](/images/2025/2-8-SQLVSNOSQL0.png)
