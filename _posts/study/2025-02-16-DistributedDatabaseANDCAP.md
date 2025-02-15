@@ -10,7 +10,7 @@ image:
 ## 🛠분산 데이터베이스 시스템, 기본 개념 확실히 다지기
 
 ### 💡 분산 데이터베이스 시스템이란?
-![image.png](/images/2025/2-16-DistributedDatabaseANDCAP1.png)
+
 
 **분산 데이터베이스 시스템(Distributed Database System)** 은 간단히 말해 **물리적으로 분산된 여러 대의 컴퓨터 노드**에 데이터베이스를 나누어 구성한 시스템입니다. 
 
